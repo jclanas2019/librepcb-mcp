@@ -1,0 +1,2 @@
+Coloca aquí freerouting-2.0.1.jar y el Java portátil.
+Se instalan con: ./start.sh --install-freerouting
